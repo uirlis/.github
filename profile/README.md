@@ -2,7 +2,7 @@
 
 Uirlis is Irish gaelic for tools. 
 
-This is an incubator org for peicing together related technologies.
+This is an incubator org for piecing together related technologies.
 I usually start a seperate org with the technologies in here as I start to understand where I'm going with them.
 Don't be surprised to find archived projects.
 
